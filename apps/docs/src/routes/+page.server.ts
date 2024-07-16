@@ -1,7 +1,7 @@
-import { EXAMPLE_VAR } from '$env/static/private';
+import { PRIVATE_EXAMPLE_VAR } from '$env/static/private';
 
 export async function load() {
 	return {
-		variable: EXAMPLE_VAR
+		variable: PRIVATE_EXAMPLE_VAR
 	};
 }

@@ -16,7 +16,7 @@
 	},
 	"dependencies": {
 		"@repo/ui": "workspace:*",
-		"@sveltejs/adapter-cloudflare": "^4.6.1"
+		"@sveltejs/adapter-node": "^5.2.0"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.45.1",
